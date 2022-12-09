@@ -2,7 +2,7 @@ from PIL import Image
 import os, sys
 
 # Don't forget change your user 
-downloadsFolders = "C:\\Users\\ingfl\\Downloads\\"
+downloadsFolders = "C:\\Users\\YourUSER\\Downloads\\"
 
 if __name__ == "__main__":
     for filename in os.listdir(downloadsFolders):
